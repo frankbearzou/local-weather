@@ -1,7 +1,5 @@
 # Local Weather
-Check [live demo](http://codepen.io/frankbearzou/full/RoEdZV/)
-
-If the weather information does not show, please download this project and run in your local computer.
+A simple API call to demonstrate the usage of the public API  
 
 ## User Stories
 - I can see the weather in my current location.
